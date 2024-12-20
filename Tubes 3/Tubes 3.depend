@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734666437 source:c:\users\aldave salukh\c++\tubes\tubes 3\main.cpp
+	"TUBES3.h"
+	<iostream>
+
+1734658186 c:\users\aldave salukh\c++\tubes\tubes 3\tubes3.h
+	<string>
+
+1734658186 source:c:\users\aldave salukh\c++\tubes\tubes 3\tubes3.cpp
+	"TUBES3.h"
+	<iostream>
+
